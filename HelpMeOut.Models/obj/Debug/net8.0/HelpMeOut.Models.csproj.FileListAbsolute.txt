@@ -1,0 +1,12 @@
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Models/bin/Debug/net8.0/HelpMeOut.Models.deps.json
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Models/bin/Debug/net8.0/HelpMeOut.Models.dll
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Models/bin/Debug/net8.0/HelpMeOut.Models.pdb
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Models/obj/Debug/net8.0/HelpMeOut.Models.csproj.AssemblyReference.cache
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Models/obj/Debug/net8.0/HelpMeOut.Models.GeneratedMSBuildEditorConfig.editorconfig
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Models/obj/Debug/net8.0/HelpMeOut.Models.AssemblyInfoInputs.cache
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Models/obj/Debug/net8.0/HelpMeOut.Models.AssemblyInfo.cs
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Models/obj/Debug/net8.0/HelpMeOut.Models.csproj.CoreCompileInputs.cache
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Models/obj/Debug/net8.0/HelpMeOut.Models.dll
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Models/obj/Debug/net8.0/refint/HelpMeOut.Models.dll
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Models/obj/Debug/net8.0/HelpMeOut.Models.pdb
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Models/obj/Debug/net8.0/ref/HelpMeOut.Models.dll

@@ -1,0 +1,15 @@
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/bin/Debug/net8.0/HelpMeOut.Services.deps.json
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/bin/Debug/net8.0/HelpMeOut.Services.dll
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/bin/Debug/net8.0/HelpMeOut.Services.pdb
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/bin/Debug/net8.0/HelpMeOut.Repository.dll
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/bin/Debug/net8.0/HelpMeOut.Repository.pdb
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/obj/Debug/net8.0/HelpMeOut.Services.csproj.AssemblyReference.cache
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/obj/Debug/net8.0/HelpMeOut.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/obj/Debug/net8.0/HelpMeOut.Services.AssemblyInfoInputs.cache
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/obj/Debug/net8.0/HelpMeOut.Services.AssemblyInfo.cs
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/obj/Debug/net8.0/HelpMeOut.Services.csproj.CoreCompileInputs.cache
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/obj/Debug/net8.0/HelpMeOu.1169286D.Up2Date
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/obj/Debug/net8.0/HelpMeOut.Services.dll
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/obj/Debug/net8.0/refint/HelpMeOut.Services.dll
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/obj/Debug/net8.0/HelpMeOut.Services.pdb
+/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/obj/Debug/net8.0/ref/HelpMeOut.Services.dll

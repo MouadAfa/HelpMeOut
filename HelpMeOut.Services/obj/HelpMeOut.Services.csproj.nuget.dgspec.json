@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/HelpMeOut.Services.csproj": {}
+  },
+  "projects": {
+    "/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Repository/HelpMeOut.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Repository/HelpMeOut.Repository.csproj",
+        "projectName": "HelpMeOut.Repository",
+        "projectPath": "/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Repository/HelpMeOut.Repository.csproj",
+        "packagesPath": "/home/momoafa/.nuget/packages/",
+        "outputPath": "/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Repository/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/momoafa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[4.4.9, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/HelpMeOut.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/HelpMeOut.Services.csproj",
+        "projectName": "HelpMeOut.Services",
+        "projectPath": "/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/HelpMeOut.Services.csproj",
+        "packagesPath": "/home/momoafa/.nuget/packages/",
+        "outputPath": "/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Services/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/momoafa/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Repository/HelpMeOut.Repository.csproj": {
+                "projectPath": "/home/momoafa/RiderProjects/HelpMeOut/HelpMeOut.Repository/HelpMeOut.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[4.4.9, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.405/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
